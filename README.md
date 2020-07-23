@@ -1,4 +1,4 @@
-# RSA Encryption Implementation (Responsive React.js)
+# RSA Encryption Implementation (Responsive React JS)
 # Application Live Preview
 **Visit :- https://rsa-implementation.netlify.app/**
 
