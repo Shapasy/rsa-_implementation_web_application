@@ -1,0 +1,17 @@
+.title{
+    color:black;
+    font-weight: bolder;
+}
+
+.subTitile{
+    color:rgb(190, 187, 187);
+    font-weight:600;
+}
+
+.subSubTitile{
+    color: chartreuse;
+}
+
+.darkBlueColor{
+    color:rgb(12, 6, 94);
+}
